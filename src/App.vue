@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/audiojack.png">
-          <h1>welcome to audiojack</h1>
+          <h1>welcome to audiojacked</h1>
           <!--youtube embed-->
           <iframe width="560" height="315" src="https://www.youtube.com/embed/fMPoCc78v0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           
